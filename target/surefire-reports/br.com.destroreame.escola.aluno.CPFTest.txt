@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: br.com.destroreame.escola.aluno.CPFTest
+-------------------------------------------------------------------------------
+Tests run: 0, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0 sec - in br.com.destroreame.escola.aluno.CPFTest

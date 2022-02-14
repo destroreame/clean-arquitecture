@@ -1,0 +1,6 @@
+br/com/destroreame/escola/escola/Indicacao/Indicacao.class
+br/com/destroreame/escola/escola/aluno/Email.class
+br/com/destroreame/escola/escola/aluno/Cpf.class
+br/com/destroreame/escola/escola/aluno/Aluno.class
+br/com/destroreame/escola/escola/aluno/FabricaDeAluno.class
+br/com/destroreame/escola/escola/aluno/Telefone.class
